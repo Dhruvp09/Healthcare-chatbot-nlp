@@ -1,0 +1,5 @@
+.env
+*.env
+health_platform.db
+*.db
+__pycache__/
